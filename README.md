@@ -1,6 +1,6 @@
 - 👋 Hi, I’m prerana kale, 3rd year IT student at DYPCOE.
 - 🌱 I’m currently learning Java full stack developement and UI/UX design.
-- I love ❤ to make Attractive Designs for mobile apps,websites.
+-   I love ❤ to make Attractive Designs for mobile apps,websites.
 - 📫 How to reach me preranakale02@gmail.com...
 - 🔭 currently working on mobile app designs and java based web application 
 
